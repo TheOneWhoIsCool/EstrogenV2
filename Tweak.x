@@ -2,6 +2,6 @@
 
 %hook CSStatusTextView
 - (void)setInternalLegalText:(NSString *)string {
-    %orig(@"meow i love femboys :3");
+    %orig(@"Estrogen failed. Device bootlooping in 5 minutes.");
 }
 %end
